@@ -35,7 +35,7 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
 
 3. Term Frequenct & Word Cloud
 
-   ![](Pictures/Wordcloud for label 0.png)   ![](Pictures/wordcloud for label 1.png)
+   ![Stock Fall](Pictures/Wordcloud%20for%20label%200.png)   ![Stock Rise](Pictures/wordcloud%20for%20label%201.png)
 
 4. Machine Learning Algorithms
 
