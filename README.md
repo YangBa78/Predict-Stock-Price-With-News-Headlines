@@ -8,7 +8,7 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
 ## Exploratory Data Analysis
 1. Data distribution
 
-![](Pictures/Distribution.jpg)
+![](Pictures/Distribution.jpg)   ![](Pictures/Correlation.png)
 
 2. Decomposition 
 
@@ -25,19 +25,25 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
        2.1.1 Use IMDB Movie Reviews dataset to train the model
        2.1.2 Use the Glove pre-trained embeddings
 
+      ![](Pictures/LSTM.png)
+
     2.2 Generate SVDs by SAS miner 
 
     2.3 Latent Dirichlet Allocation(LDA) 
+    
+    ![](Pictures/LDA.png)
 
 3. Term Frequenct & Word Cloud
+
+   ![](Pictures/Wordcloud for label 0.png)   ![](Pictures/wordcloud for label 1.png)
 
 4. Machine Learning Algorithms
 
 5. Deep Learning Architecture 
+   
+6. Stock Price Forecasting By Time Series Analysis 
 
-7. Stock Price Forecasting By Time Series Analysis 
-
-6. Conclusions 
+7. Conclusions 
 
 
 ## Reference
