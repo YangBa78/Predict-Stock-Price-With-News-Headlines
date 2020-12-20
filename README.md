@@ -45,8 +45,12 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
 
 5. Deep Learning Architecture 
    
+   ![](Pictures/CNN+LSTM.png)
+   
 6. Stock Price Forecasting By Time Series Analysis 
-
+   
+   ![](Pictures/Prophet.png)
+   
 7. Conclusions 
 
 
