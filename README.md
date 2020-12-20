@@ -7,8 +7,9 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
 
 ## Exploratory Data Analysis
 1. Data distribution
-
+![](Pictures/Distribution.jpg)
 2. Decomposition 
+
 
 
 ## Methodology
@@ -19,7 +20,7 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
     2.1 Sentiment Analysis by LSTM 
     
        2.1.1 Use IMDB Movie Reviews dataset to train the model
-       2.1.2 Use the Glove embedding model
+       2.1.2 Use the Glove pre-trained embeddings
 
     2.2 Generate SVDs by SAS miner 
 
