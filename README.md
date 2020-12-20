@@ -5,20 +5,35 @@ This project is working to use text mining and time series to detect the connect
 ## Data description
 Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
 
+## Exploratory Data Analysis
+1. Data distribution
+
+2. Decomposition 
+
 
 ## Methodology
-1. 
+1. Preprocessing and Cleaning
 
-2. 
+2. Feature Extraction
 
-3.
+    2.1 Sentiment Analysis by LSTM 
+    
+       2.1.1 Use IMDB Movie Reviews dataset to train the model
+       2.1.2 Use the Glove embedding model
 
-4.
+    2.2 Generate SVDs by SAS miner 
 
-5. 
+    2.3 Latent Dirichlet Allocation(LDA) 
 
-6. 
+3. Term Frequenct & Word Cloud
 
+4. Machine Learning Algorithms
+
+5. Deep Learning Architecture 
+
+7. Stock Price Forecasting By Time Series Analysis 
+
+6. Conclusions 
 
 
 ## Reference
