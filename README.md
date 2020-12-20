@@ -1,13 +1,13 @@
-### Predict-Stock-Price-With-News-Headlines
-# Purpose 
+# Predict-Stock-Price-With-News-Headlines
+## Purpose 
 1. project of text mining class
 2. data from https://www.kaggle.com/aaron7sun/stocknews
 
-# Data description
+## Data description
 
 
-# Methodology
+## Methodology
 
 
-# Reference
+## Reference
 
