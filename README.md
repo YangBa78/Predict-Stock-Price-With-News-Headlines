@@ -7,9 +7,12 @@ Obtain data from Kaggle: https://www.kaggle.com/aaron7sun/stocknews
 
 ## Exploratory Data Analysis
 1. Data distribution
+
 ![](Pictures/Distribution.jpg)
+
 2. Decomposition 
 
+![](Pictures/Decomposition.jpeg)
 
 
 ## Methodology
